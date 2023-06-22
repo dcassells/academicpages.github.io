@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "D. Cassells Web Page"
+title: "Duncan Cassells"
 excerpt: "Duncan Cassells"
 author_profile: true
 redirect_from: 
