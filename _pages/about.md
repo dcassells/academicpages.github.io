@@ -20,3 +20,5 @@ I am excited to share my academic journey, research findings, and insights with 
 
 [//]: # (Work)
 [//]: # (------)
+
+#### N.B. this site is currently under construction, please contact me with any questions
