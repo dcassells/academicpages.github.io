@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Duncan Cassells"
-  avatar           : "web_profile.jpg"
-  bio              : "Pursuing a PhD in Computational Social Sciences"
+  avatar           : "profile.png"
+  bio              : "Complexity and Computational Social Sciences"
   location         : "Paris, France"
   employer         : "Sorbonne Université"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=aHQS3YAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
