@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. While also being associated with teams at Sciences Po and LPI Cité Université in Paris.
+Hello. I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. While also associated with teams at Sciences Po's médialab and LPI Cité Université in Paris.
 
 My research interests lie at the intersection of network science, mathematical modeling, and media expertise. I am particularly focused on investigating questions related to political polarization within social platforms, and the influence of group identity. By leveraging interdisciplinary approaches, I aim to gain insights into the dynamics and mechanisms that contribute to the creation and fragmentation of online communities.
 
