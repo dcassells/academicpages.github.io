@@ -14,7 +14,7 @@ My research interests lie at the intersection of network science, mathematical m
 
 Engineering Mathematics at the University of Bristol is where my academic journey began - completing both my master's and undergraduate degrees there. During these studies, I spent a year in the Mathematics and Computer Science departments at Ecole Polytechnique Fédérale de Lausanne (EPFL), focusing on stochastic processes, complex networks, and artificial intelligence.
 
-Following my master's, I had the privilege of working as a senior data analyst for the *Guardian*, in London, creating insights to inform editorial strategies and contributed to the development of innovative products. Before my time there, I also held a position as a financial data consultant, collaborating with institutions in both London and Madrid.
+Following my master's, I had the privilege of working as a senior data analyst for the *Guardian*, in London, informing editorial strategies and contributing to the development of innovative products. Before my time there, I also held a position as a financial data consultant, collaborating with institutions in both London and Madrid.
 
 Please feel free to reach out if you have any questions or would like to collaborate.
 
