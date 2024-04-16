@@ -10,7 +10,7 @@ redirect_from:
 
 Hello. I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. While also associated with teams at Sciences Po's médialab and LPI Cité Université in Paris.
 
-My research interests lie at the intersection of network science, mathematical modeling, and media expertise. I am particularly focused on investigating questions related to political polarization within social platforms, and the influence of group identity. By leveraging interdisciplinary approaches, I aim to gain insights into the dynamics and mechanisms that contribute to the creation and fragmentation of online communities.
+My research interests lie at the intersection of network science, mathematical modeling, and media expertise. I am particularly focused on investigating questions related to political polarization within social platforms, and the influence of group identity. By leveraging interdisciplinary approaches, I develop research into the dynamics and mechanisms that contribute to the creation and fragmentation of online communities.
 
 Engineering Mathematics at the University of Bristol is where my academic journey began - completing both my master's and undergraduate degrees there. During these studies, I spent a year in the Mathematics and Computer Science departments at Ecole Polytechnique Fédérale de Lausanne (EPFL), focusing on stochastic processes, complex networks, and artificial intelligence.
 
